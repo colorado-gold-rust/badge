@@ -5,4 +5,7 @@ badge:
 	python2 ./support/generator/ScribusGeneratorCLI.py --merge \
 		--outDir . --outName Badge__rendered -c ./input.csv ./Badge.sla
 
-.PHONY: setup badge
+clean:
+	@rm -rf Badge__*.sla
+
+.PHONY: setup badge clean
