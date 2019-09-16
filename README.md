@@ -6,7 +6,7 @@ Layout created for Avery 3x4" name badge refills.
 
 Before diving in, ensure that you've installed [Scribus](https://www.scribus.net/), the open source desktop publishing tool. It will be needed to edit template files.
 
-Installation of local tools, like [Scribus Generator]() can be automated by running `make setup`.
+Installation of local tools, like [Scribus Generator](https://github.com/berteh/ScribusGenerator/) can be automated by running `make setup`.
 
 ### Editing Name Badge Design
 
