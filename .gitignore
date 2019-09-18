@@ -1,3 +1,4 @@
 support/
 *.csv
 *__rendered.sla
+*__rendered.pdf
